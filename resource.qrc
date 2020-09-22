@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>auth.jpg</file>
+        <file>tick.png</file>
+    </qresource>
+</RCC>
